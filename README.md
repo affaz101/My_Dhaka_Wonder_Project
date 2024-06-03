@@ -1,7 +1,7 @@
 
 Hi, I am Abu Huraira,
 
-This is my project, it solves a Tourist Problem. It take 2 input, where to visit, where you are in at. It will find best route, bus, place to get into bus, excganging buses if multi bus needed.
+This is my project, it solves a Tourist Problem. It take 2 input, where to visit, where you are in at. It will find best route, bus, bus stand to get into bus, excganging bus stands if multi bus needed.
 
 
 
